@@ -1,5 +1,5 @@
 %    b) Assuming nothing is known about σ, find a 100(1 − α)% confidence interval for
-% the average number of files stored.
+% the average number of files stored. 
 
 % average number of files stored => CI for population mean, miu
 % sigma not known 
